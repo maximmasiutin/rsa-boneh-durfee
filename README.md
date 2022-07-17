@@ -4,7 +4,7 @@ This software demonstrates the Boneh & Durfee attack to recovery a low private e
 
 Lattice reduction technique of Coppersmith's method for finding small roots of
 univariate or bivariate modular polynomial equations originally proposed to
-extract ciphertext bits as described in https://link.springer.com/article/10.1007/s001459900030
+extract ciphertext bits as described in https://doi.org/10.1007/s001459900030
 can also be used to recover the private exponent (d)
 of the RSA key when the exponent is low relative to the public modulus (n), 
 e.g. d < n^0.292, as described by Dan Boneh & Glenn Durfee in a 1999
