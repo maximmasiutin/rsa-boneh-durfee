@@ -1,4 +1,4 @@
-== Boneh & Durfee RSA Private Key Recovery ==
+# Boneh & Durfee RSA Private Key Recovery
 
 This software demonstrates the Boneh & Durfee attack to recovery a low private exponent of an RSA key.
 
